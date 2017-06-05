@@ -1,6 +1,6 @@
 # Language Translation 
 
-Use of Sequence to Sequence Neural networks to translate from English ---> French
+Used Sequence to Sequence Neural networks to translate from  || " English ---> French " ||
 
 ## Deployment
 
